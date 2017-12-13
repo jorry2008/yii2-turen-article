@@ -10,3 +10,6 @@
 
 CVS批量导出：
 5.https://github.com/yii2tech/csv-grid
+
+Redactor编辑器：
+6.https://github.com/yiidoc/yii2-redactor
