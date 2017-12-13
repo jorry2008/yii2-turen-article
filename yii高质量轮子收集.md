@@ -15,4 +15,7 @@ Redactor编辑器：
 6.https://github.com/yiidoc/yii2-redactor
 
 saas后台模板选择adminlte：
-https://github.com/dmstr/yii2-adminlte-asset
+7.https://github.com/dmstr/yii2-adminlte-asset
+
+标签功能：
+8.https://github.com/creocoder/yii2-taggable
